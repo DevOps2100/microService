@@ -7,7 +7,7 @@
 
 - 开源仓库： https://github.com/grpc/grpc
 - 官方地址： https://grpc.io/
-- 学习目标框架： https://github.com/grpc/grpc-go
+- 基于Go语言的grpc框架： https://github.com/grpc/grpc-go
 
 
 ## protobuf 
